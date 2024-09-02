@@ -1,0 +1,2 @@
+1) prioity_queue are like max heap (the maxelement at top and then decreases gradually as we go down)
+

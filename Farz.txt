@@ -1,0 +1,843 @@
+Leetcode DSA sheet by Fraz : Sheet1
+A	B	C	D	E	F	G	H
+1
+DSA Sheet by FRAZ ( https://www.youtube.com/c/FrazMohammad )						
+2
+CHECKOUT MY DSA Channel ( https://www.youtube.com/c/LeadCodingbyFRAZ )						
+3
+4
+HOW TO FOLLOW THIS SHEET https://youtu.be/NXQi_g1pVqI						
+5
+JOIN TELEGRAM CHANNEL FOR UPDATES https://t.me/LeadCoding						
+6
+7
+8
+Arrays	Editorials					
+9
+EASY						
+10
+https://leetcode.com/problems/two-sum/	https://www.youtube.com/watch?v=o2WOhGSfx_8					
+11
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/	https://www.youtube.com/watch?v=XIWykOHE1SE					
+12
+https://leetcode.com/problems/plus-one/	https://www.youtube.com/watch?v=FyzWXlSMNoI					
+13
+https://leetcode.com/problems/move-zeroes/	https://www.youtube.com/watch?v=mgzcjQ1x9Mw					
+14
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/	https://www.youtube.com/watch?v=3gtcRtvDCpA					
+15
+https://leetcode.com/problems/running-sum-of-1d-array/	
+https://leetcode.com/problems/running-sum-of-1d-array/discuss/686261/JavaC%2B%2BPython-Array-Time-O(N)-Space-O(1)
+16
+https://leetcode.com/problems/find-pivot-index/	
+https://leetcode.com/problems/find-pivot-index/discuss/411318/Java%3A-beats100-1ms-easy-understanding-solution
+17
+https://leetcode.com/problems/majority-element/	https://www.youtube.com/watch?v=PqU48t80rn8					
+18
+https://leetcode.com/problems/fibonacci-number/	
+https://www.youtube.com/watch?v=MyFe2W2nIEE&list=PLKZaSt2df1gxtem7J8QqY8m2bHliz8mPt
+19
+https://leetcode.com/problems/squares-of-a-sorted-array/	
+https://leetcode.com/problems/squares-of-a-sorted-array/discuss/495394/C%2B%2B%3A-Simplest-one-pass-two-pointers
+20
+https://leetcode.com/problems/pascals-triangle/	
+https://leetcode.com/problems/pascals-triangle/discuss/38125/Solution-in-Java
+21
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/	
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/11782/Share-my-clean-C%2B%2B-code
+22
+23
+24
+MEDIUM	
+
+					
+25
+https://leetcode.com/problems/merge-intervals/						->		DOUT
+https://leetcode.com/problems/merge-intervals/discuss/21222/A-simple-Java-solution
+
+26
+https://leetcode.com/problems/3sum/	https://www.youtube.com/watch?v=TeegtfmEhTY					
+27
+https://leetcode.com/problems/product-of-array-except-self/	https://www.youtube.com/watch?v=3X9-qs1Lwe4					
+28
+https://leetcode.com/problems/insert-delete-getrandom-o1/	
+(Check the comment section of this post) https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/85422/AC-C%2B%2B-Solution.-Unordered_map-%2B-Vector
+29
+https://leetcode.com/problems/subarray-sum-equals-k/	
+https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
+30
+https://leetcode.com/problems/next-permutation/						
+31
+https://leetcode.com/problems/spiral-matrix/						
+32
+https://leetcode.com/problems/container-with-most-water/						
+33
+https://leetcode.com/problems/rotate-image/						
+34
+https://leetcode.com/problems/word-search/						
+35
+https://leetcode.com/problems/3sum-closest/						
+36
+https://leetcode.com/problems/game-of-life/						
+37
+https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/						
+38
+https://leetcode.com/problems/4sum/	https://www.youtube.com/watch?v=UG1C-otvF2U					
+39
+https://leetcode.com/problems/find-the-duplicate-number/						
+40
+https://leetcode.com/problems/combination-sum/	https://www.youtube.com/watch?v=yEAHwSS8HN0					
+41
+https://leetcode.com/problems/jump-game-ii/	https://www.youtube.com/watch?v=1DkVU2i3sOA					
+42
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/						
+43
+https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/						
+44
+https://leetcode.com/problems/max-area-of-island/						
+45
+https://leetcode.com/problems/find-all-duplicates-in-an-array/						
+46
+https://leetcode.com/problems/k-diff-pairs-in-an-array/						
+47
+https://leetcode.com/problems/subsets/	https://www.youtube.com/watch?v=6BPurabdAl4					
+48
+https://leetcode.com/problems/invalid-transactions/						
+49
+https://leetcode.com/problems/jump-game/						
+50
+https://leetcode.com/problems/subarray-sums-divisible-by-k/						
+51
+HARD						
+52
+https://leetcode.com/problems/first-missing-positive/						
+53
+https://leetcode.com/problems/largest-rectangle-in-histogram/						
+54
+https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/						
+55
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/	https://www.youtube.com/watch?v=YAWRyWJalM0					
+56
+https://leetcode.com/problems/max-value-of-equation/	https://www.youtube.com/watch?v=hOTpn8jE9jI					
+57
+58
+RECURSION						
+59
+1- What is recursion	https://youtu.be/LgaFY8WyTX8					
+60
+2- How Recursion Works	https://youtu.be/dWsQroffE-U					
+61
+3- What is a recursion tree	https://youtu.be/2l3cSfE885g					
+62
+4- https://leetcode.com/problems/powx-n/	https://youtu.be/an9WRz8QhkA					
+63
+5- https://leetcode.com/problems/valid-palindrome/	https://youtu.be/m5Cx_AQnpfE					
+64
+6- General Steps to recursion problems	https://youtu.be/quqHd8UHbzs					
+65
+7- https://leetcode.com/problems/subsets/	https://youtu.be/0N3RCWa8jFM					
+66
+8- https://leetcode.com/problems/permutations/	https://youtu.be/jRyQVVvYBAM					
+67
+9- https://leetcode.com/problems/permutations-ii/	https://youtu.be/lQaNrfA86B0					
+68
+10- https://leetcode.com/problems/subsets-ii/	https://youtu.be/u40eYbmT9zg					
+69
+11- https://leetcode.com/problems/combinations/	https://youtu.be/DTFy9spEQGo					
+70
+12- https://leetcode.com/problems/combination-sum/	https://youtu.be/Hca7284gCpI					
+71
+13- https://leetcode.com/problems/combination-sum-ii/	https://youtu.be/6fARitpO0p8					
+72
+14- https://leetcode.com/problems/combination-sum-iii/	https://youtu.be/xNeLP5RDY-c					
+73
+15- https://leetcode.com/problems/letter-combinations-of-a-phone-number/	https://youtu.be/qyHlIdxk820					
+74
+16- https://leetcode.com/problems/partition-to-k-equal-sum-subsets/	https://youtu.be/h_6MldQ8vB8					
+75
+17- https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/	https://youtu.be/DIJQ8zLeVEk					
+76
+18- https://leetcode.com/problems/flood-fill/	https://youtu.be/RjO-HDjRMpM					
+77
+19- https://leetcode.com/problems/word-search/	https://youtu.be/hPyR1un7_hw					
+78
+20- Rat in a Maze	https://youtu.be/XiJ0Qq1LD5g					
+79
+21- https://leetcode.com/problems/n-queens/	https://youtu.be/VrySrTVAI3Y					
+80
+81
+DYNAMIC PROGRAMING						
+82
+EASY						
+83
+https://leetcode.com/problems/maximum-subarray/						
+84
+https://leetcode.com/problems/climbing-stairs						
+85
+https://leetcode.com/problems/divisor-game/	https://www.youtube.com/watch?v=UbE4-ONpJcc					
+86
+https://leetcode.com/problems/counting-bits/						
+87
+88
+MEDIUM						
+89
+https://leetcode.com/problems/decode-ways/	https://www.youtube.com/watch?v=N5i7ySYQcgM					
+90
+https://leetcode.com/problems/word-break/	https://www.youtube.com/watch?v=_iIK7Gu7MNo					
+91
+https://leetcode.com/problems/delete-and-earn/						
+92
+https://leetcode.com/problems/maximal-square/						
+93
+https://leetcode.com/problems/coin-change/						
+94
+https://leetcode.com/problems/maximum-product-subarray/						
+95
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/						
+96
+https://leetcode.com/problems/palindromic-substrings/						
+97
+https://leetcode.com/problems/house-robber/	https://www.youtube.com/watch?v=8BdXDakKZEs					
+98
+https://leetcode.com/problems/continuous-subarray-sum/						
+99
+https://leetcode.com/problems/knight-dialer/						
+100
+https://leetcode.com/problems/longest-increasing-subsequence/						
+101
+https://leetcode.com/problems/unique-paths/						
+102
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/						
+103
+https://leetcode.com/problems/range-sum-query-2d-immutable/						
+104
+https://leetcode.com/problems/longest-arithmetic-subsequence/						
+105
+106
+HARD						
+107
+https://leetcode.com/problems/trapping-rain-water/						
+108
+https://leetcode.com/problems/word-break-ii/						
+109
+https://leetcode.com/problems/regular-expression-matching/						
+110
+https://leetcode.com/problems/maximal-rectangle/						
+111
+https://leetcode.com/problems/longest-valid-parentheses/						
+112
+https://leetcode.com/problems/edit-distance/						
+113
+https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/						
+114
+https://leetcode.com/problems/frog-jump/						
+115
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/	https://www.youtube.com/watch?v=mFwf1YbH-Jk					
+116
+https://leetcode.com/problems/burst-balloons/						
+117
+https://leetcode.com/problems/minimum-cost-to-merge-stones/						
+118
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/						
+119
+https://leetcode.com/problems/super-egg-drop/						
+120
+https://leetcode.com/problems/count-different-palindromic-subsequences/						
+121
+https://leetcode.com/problems/minimum-cost-to-cut-a-stick/						
+122
+123
+STRINGS						
+124
+EASY						
+125
+https://leetcode.com/problems/add-strings/						
+126
+https://leetcode.com/problems/longest-common-prefix/						
+127
+https://leetcode.com/problems/valid-palindrome-ii/						
+128
+https://leetcode.com/problems/roman-to-integer/						
+129
+https://leetcode.com/problems/implement-strstr/						
+130
+131
+MEDIUM						
+132
+https://leetcode.com/problems/longest-substring-without-repeating-characters/						
+133
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/						
+134
+https://leetcode.com/problems/longest-palindromic-substring/						
+135
+136
+https://leetcode.com/problems/group-anagrams/	https://www.youtube.com/watch?v=NVIm5_TIqUs					
+137
+https://leetcode.com/problems/generate-parentheses/						
+138
+https://leetcode.com/problems/basic-calculator-ii/						
+139
+https://leetcode.com/problems/integer-to-roman/						
+140
+https://leetcode.com/problems/reverse-words-in-a-string/						
+141
+https://leetcode.com/problems/simplify-path/						
+142
+https://leetcode.com/problems/zigzag-conversion/						
+143
+144
+HARD						
+145
+https://leetcode.com/problems/text-justification/						
+146
+https://leetcode.com/problems/integer-to-english-words/						
+147
+https://leetcode.com/problems/minimum-window-substring/						
+148
+https://leetcode.com/problems/valid-number/						
+149
+https://leetcode.com/problems/distinct-subsequences/						
+150
+https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/						
+151
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/						
+152
+153
+MATHS						
+154
+EASY						
+155
+https://leetcode.com/problems/reverse-integer/						
+156
+https://leetcode.com/problems/add-binary/						
+157
+https://leetcode.com/problems/palindrome-number/						
+158
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/						
+159
+https://leetcode.com/problems/happy-number/	https://www.youtube.com/watch?v=ocDwEjRVDAk					
+160
+https://leetcode.com/problems/excel-sheet-column-title/						
+161
+https://leetcode.com/problems/missing-number/						
+162
+https://leetcode.com/problems/maximum-product-of-three-numbers/						
+163
+https://leetcode.com/problems/power-of-two/						
+164
+165
+MEDIUM						
+166
+https://leetcode.com/problems/encode-and-decode-tinyurl/						
+167
+https://leetcode.com/problems/string-to-integer-atoi/						
+168
+https://leetcode.com/problems/multiply-strings/						
+169
+https://leetcode.com/problems/angle-between-hands-of-a-clock/						
+170
+https://leetcode.com/problems/integer-break/						
+171
+https://leetcode.com/problems/valid-square/						
+172
+https://leetcode.com/problems/the-kth-factor-of-n/						
+173
+174
+HARD						
+175
+https://leetcode.com/problems/basic-calculator/						
+176
+https://leetcode.com/problems/max-points-on-a-line/						
+177
+https://leetcode.com/problems/permutation-sequence/						
+178
+https://leetcode.com/problems/number-of-digit-one/						
+179
+180
+GREEDY						
+181
+EASY						
+182
+THAT WOULD BE TOO EASY FOR YOU , LETS DO MEDIUM						
+183
+184
+MEDIUM						
+185
+https://leetcode.com/problems/task-scheduler/						
+186
+https://leetcode.com/problems/gas-station/						
+187
+https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/						
+188
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/						
+189
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/						
+190
+https://leetcode.com/problems/remove-k-digits/						
+191
+https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/						
+192
+https://leetcode.com/problems/non-overlapping-intervals/						
+193
+194
+HARD						
+195
+https://leetcode.com/problems/candy/						
+196
+https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/						
+197
+https://leetcode.com/problems/create-maximum-number/						
+198
+199
+DFS						
+200
+MEDIUM						
+201
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/						
+202
+https://leetcode.com/problems/course-schedule-ii/						
+203
+https://leetcode.com/problems/decode-string/						
+204
+https://leetcode.com/problems/number-of-provinces/						
+205
+https://leetcode.com/problems/clone-graph/						
+206
+https://leetcode.com/problems/shortest-bridge/						
+207
+https://leetcode.com/problems/all-paths-from-source-to-target/						
+208
+https://leetcode.com/problems/surrounded-regions//						
+209
+https://leetcode.com/problems/house-robber-iii/						
+210
+211
+HARD						
+212
+https://leetcode.com/problems/critical-connections-in-a-network/						
+213
+https://leetcode.com/problems/remove-invalid-parentheses/						
+214
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/						
+215
+https://leetcode.com/problems/concatenated-words/						
+216
+https://leetcode.com/problems/making-a-large-island/						
+217
+https://leetcode.com/problems/contain-virus/						
+218
+https://leetcode.com/problems/24-game/						
+219
+https://leetcode.com/problems/remove-boxes/						
+220
+221
+TREE						
+222
+EASY						
+223
+https://leetcode.com/problems/diameter-of-binary-tree/						
+224
+https://leetcode.com/problems/invert-binary-tree/						
+225
+https://leetcode.com/problems/subtree-of-another-tree/						
+226
+https://leetcode.com/problems/range-sum-of-bst/						
+227
+https://leetcode.com/problems/symmetric-tree/						
+228
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/						
+229
+https://leetcode.com/problems/merge-two-binary-trees/						
+230
+https://leetcode.com/problems/maximum-depth-of-binary-tree/						
+231
+https://leetcode.com/problems/binary-tree-paths/						
+232
+https://leetcode.com/problems/same-tree/						
+233
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/						
+234
+https://leetcode.com/problems/path-sum/						
+235
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/						
+236
+https://leetcode.com/problems/sum-of-left-leaves/						
+237
+https://leetcode.com/problems/balanced-binary-tree/						
+238
+https://leetcode.com/problems/binary-tree-inorder-traversal/ (USING STACK TOO)						
+239
+240
+MEDIUM						
+241
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/						
+242
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/						
+243
+https://leetcode.com/problems/binary-tree-right-side-view/						
+244
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/						
+245
+https://leetcode.com/problems/validate-binary-search-tree/						
+246
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/						
+247
+https://leetcode.com/problems/binary-search-tree-iterator/						
+248
+https://leetcode.com/problems/binary-tree-level-order-traversal/						
+249
+https://leetcode.com/problems/path-sum-iii/						
+250
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/						
+251
+https://leetcode.com/problems/unique-binary-search-trees/						
+252
+https://leetcode.com/problems/recover-binary-search-tree/						
+253
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/						
+254
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/						
+255
+https://leetcode.com/problems/maximum-width-of-binary-tree/						
+256
+https://leetcode.com/problems/unique-binary-search-trees-ii/						
+257
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/						
+258
+https://leetcode.com/problems/redundant-connection/						
+259
+260
+HARD						
+261
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/						
+262
+https://leetcode.com/problems/binary-tree-maximum-path-sum/						
+263
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/						
+264
+https://leetcode.com/problems/binary-tree-cameras/						
+265
+https://leetcode.com/problems/sum-of-distances-in-tree/						
+266
+https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/						
+267
+https://leetcode.com/problems/redundant-connection-ii/						
+268
+269
+HASH TABLE						
+270
+EASY						
+271
+https://leetcode.com/problems/verifying-an-alien-dictionary/						
+272
+https://leetcode.com/problems/design-hashmap/						
+273
+274
+MEDIUM						
+275
+https://leetcode.com/problems/top-k-frequent-elements/						
+276
+https://leetcode.com/problems/design-twitter/						
+277
+278
+BINARY SEARCH						
+279
+EASY						
+280
+https://leetcode.com/problems/sqrtx/						
+281
+https://leetcode.com/problems/binary-search/						
+282
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/						
+283
+https://leetcode.com/problems/peak-index-in-a-mountain-array/						
+284
+285
+MEDIUM						
+286
+https://leetcode.com/problems/time-based-key-value-store/						
+287
+https://leetcode.com/problems/search-in-rotated-sorted-array/						
+288
+https://leetcode.com/problems/powx-n/						
+289
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/						
+290
+https://leetcode.com/problems/find-peak-element/						
+291
+https://leetcode.com/problems/search-a-2d-matrix/						
+292
+https://leetcode.com/problems/divide-two-integers/						
+293
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/						
+294
+https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/						
+295
+296
+HARD						
+297
+https://leetcode.com/problems/median-of-two-sorted-arrays/						
+298
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/						
+299
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/						
+300
+https://leetcode.com/problems/split-array-largest-sum/						
+301
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/						
+302
+303
+BFS						
+304
+MEDIUM						
+305
+https://leetcode.com/problems/number-of-islands/						
+306
+https://leetcode.com/problems/rotting-oranges/						
+307
+https://leetcode.com/problems/snakes-and-ladders/						
+308
+https://leetcode.com/problems/is-graph-bipartite/						
+309
+https://leetcode.com/problems/minimum-jumps-to-reach-home/						
+310
+311
+HARD						
+312
+https://leetcode.com/problems/word-ladder/						
+313
+https://leetcode.com/problems/word-ladder-ii/						
+314
+https://leetcode.com/problems/cut-off-trees-for-golf-event/						
+315
+https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/						
+316
+317
+TWO POINTER						
+318
+MEDIUM / HARD						
+319
+https://leetcode.com/problems/partition-labels/						
+320
+https://leetcode.com/problems/sort-colors/						
+321
+https://leetcode.com/problems/longest-repeating-character-replacement/						
+322
+https://leetcode.com/problems/maximum-number-of-visible-points/						
+323
+https://leetcode.com/problems/subarrays-with-k-different-integers/						
+324
+325
+STACK						
+326
+EASY						
+327
+https://leetcode.com/problems/min-stack/						
+328
+https://leetcode.com/problems/next-greater-element-i/	https://www.youtube.com/watch?v=TunTV2-griM					
+329
+https://leetcode.com/problems/backspace-string-compare/						
+330
+https://leetcode.com/problems/implement-queue-using-stacks/						
+331
+PRE , POST , INORDER TRAVERSALS OF BINARY TREE	
+https://www.youtube.com/watch?v=B9bSSOnc0CQ,https://www.youtube.com/watch?v=oUbZurIKnsY ,
+332
+https://leetcode.com/problems/implement-stack-using-queues/						
+333
+334
+MEDIUM						
+335
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/						
+336
+https://leetcode.com/problems/daily-temperatures/						
+337
+https://leetcode.com/problems/flatten-nested-list-iterator/						
+338
+https://leetcode.com/problems/online-stock-span/						
+339
+https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/						
+340
+https://leetcode.com/problems/sum-of-subarray-minimums/	https://www.youtube.com/watch?v=9-TXIVEXX2w					
+341
+https://leetcode.com/problems/evaluate-reverse-polish-notation/						
+342
+343
+DESIGN						
+344
+MEDIUM / HARD						
+345
+https://leetcode.com/problems/lru-cache/						
+346
+https://leetcode.com/problems/find-median-from-data-stream/						
+347
+https://leetcode.com/problems/design-underground-system/						
+348
+https://leetcode.com/problems/lfu-cache/						
+349
+https://leetcode.com/problems/tweet-counts-per-frequency/						
+350
+https://leetcode.com/problems/all-oone-data-structure/						
+351
+https://leetcode.com/problems/design-browser-history/						
+352
+353
+GRAPH						
+354
+EASY						
+355
+https://leetcode.com/problems/employee-importance/						
+356
+https://leetcode.com/problems/find-the-town-judge/						
+357
+358
+MEDIUM						
+359
+https://leetcode.com/problems/evaluate-division/						
+360
+https://leetcode.com/problems/accounts-merge/						
+361
+https://leetcode.com/problems/network-delay-time/						
+362
+https://leetcode.com/problems/find-eventual-safe-states/						
+363
+https://leetcode.com/problems/keys-and-rooms/						
+364
+https://leetcode.com/problems/possible-bipartition/						
+365
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/						
+366
+https://leetcode.com/problems/regions-cut-by-slashes/						
+367
+https://leetcode.com/problems/satisfiability-of-equality-equations/						
+368
+https://leetcode.com/problems/as-far-from-land-as-possible/						
+369
+https://leetcode.com/problems/number-of-closed-islands/						
+370
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/						
+371
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/						
+372
+https://leetcode.com/problems/time-needed-to-inform-all-employees/						
+373
+374
+BIT MANIPULATION						
+375
+https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+376
+377
+LINKED LIST						
+378
+379
+1- Uses of Linked List ( Real Life )	https://youtu.be/fxuVD1e66QA					
+380
+2- Representation of Linked List	https://youtu.be/Xtvo7Y2q4NA					
+381
+3- https://leetcode.com/problems/delete-node-in-a-linked-list/	https://youtu.be/m6rUsGNRYPg					
+382
+4- Arrays vs Linked List	https://youtu.be/KMc-B051ne8					
+383
+5- https://leetcode.com/problems/middle-of-the-linked-list/	https://youtu.be/5blSG0JZNbg					
+384
+6- https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/	https://youtu.be/rPbzUW7usJE					
+385
+7- Doubly Linked List and STLs	https://youtu.be/cTm0AR5_O54					
+386
+8- https://leetcode.com/problems/design-hashset/	https://youtu.be/IjxkD8L2cOM					
+387
+9- https://leetcode.com/problems/design-hashmap/	https://youtu.be/xVEGczCJCHs					
+388
+10- https://leetcode.com/problems/reverse-linked-list/	https://youtu.be/MsIRa740mQY					
+389
+11- Reverse Nodes in k-Group [ https://leetcode.com/problems/reverse-nodes-in-k-group/ ]	https://youtu.be/TeDcLjOOiK4					
+390
+12- Reverse Nodes in k-Group (NO EXTRA SPACE)	https://youtu.be/dbRJFnQoKTI					
+391
+13- https://leetcode.com/problems/merge-two-sorted-lists/	https://youtu.be/0QPpgAsd4IY					
+392
+14- https://leetcode.com/problems/merge-k-sorted-lists/	https://youtu.be/RYJ3vs8qx10					
+393
+15- https://leetcode.com/problems/remove-duplicates-from-sorted-list/	https://youtu.be/_Dc1IqY2WpQ					
+394
+16- https://leetcode.com/problems/linked-list-cycle/	https://youtu.be/nbQUEN3IRFk					
+395
+17- https://leetcode.com/problems/linked-list-cycle-ii/	https://youtu.be/tsQT0MT73Og					
+396
+18- https://leetcode.com/problems/intersection-of-two-linked-lists/	https://youtu.be/DGEqY5rLyVc					
+397
+19- https://leetcode.com/problems/palindrome-linked-list/	https://youtu.be/XYY2tc_8KDM					
+398
+20- https://leetcode.com/problems/remove-linked-list-elements/	https://youtu.be/JrRoR7ycM8U					
+399
+21- https://leetcode.com/problems/design-browser-history/	https://youtu.be/SPDhPuMsM9A					
+400
+22- https://leetcode.com/problems/lru-cache/	https://youtu.be/nN36SSIMn1k					
+401
+23- Copy List with Random Pointer ( with extra space ) [ https://leetcode.com/problems/copy-list-with-random-pointer/ ]	https://youtu.be/ctFmFbeyTVU					
+402
+24- Copy List with Random Pointer ( NO extra space )	https://youtu.be/uBjpRedaNKQ					
+403
+404
+HEAP						
+405
+MEDIUM						
+406
+https://leetcode.com/problems/k-closest-points-to-origin/						
+407
+https://leetcode.com/problems/kth-largest-element-in-an-array/						
+408
+https://leetcode.com/problems/reorganize-string/						
+409
+https://leetcode.com/problems/furthest-building-you-can-reach/						
+410
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/						
+411
+https://leetcode.com/problems/cheapest-flights-within-k-stops/						
+412
+https://leetcode.com/problems/find-the-most-competitive-subsequence/						
+413
+https://leetcode.com/problems/ugly-number-ii/						
+414
+415
+HARD						
+416
+https://leetcode.com/problems/merge-k-sorted-lists/						
+417
+https://leetcode.com/problems/sliding-window-maximum/						
+418
+https://leetcode.com/problems/the-skyline-problem/						
+419
+https://leetcode.com/problems/trapping-rain-water-ii/						
+420
+https://leetcode.com/problems/minimum-number-of-refueling-stops/						
+421
+https://leetcode.com/problems/swim-in-rising-water/						
+422
+https://leetcode.com/problems/shortest-path-to-get-all-keys/						
+423
+https://leetcode.com/problems/minimum-cost-to-hire-k-workers/						
+424
+https://leetcode.com/problems/k-th-smallest-prime-fraction/						
+425
+426
+SLIDING WINDOW						
+427
+MEDIUM/HARD						
+428
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/						
+429
+https://leetcode.com/problems/max-consecutive-ones-iii/						
+430
+https://leetcode.com/problems/grumpy-bookstore-owner/						
+431
+https://leetcode.com/problems/sliding-window-median/						
+432
+433
+TRIE						
+434
+https://leetcode.com/explore/learn/card/trie/						
+435
+SEGMENT TREE						
+436
+https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/						
