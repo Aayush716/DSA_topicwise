@@ -9,9 +9,10 @@ Output: true
 Explanation: Nodes in blue form a subpath in the binary Tree.  
 https://leetcode.com/problems/linked-list-in-binary-tree/description/
 Leetcode 1367.
+same question.
 */
 
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -31,6 +32,7 @@ Leetcode 1367.
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
+ * 
  */
 class Solution {
 public:
