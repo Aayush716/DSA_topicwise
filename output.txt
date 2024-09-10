@@ -1,0 +1,7 @@
+platform no = 0 start = 900 end = 910
+platform no = 0 start = 950 end = 1120
+platform no = 1 start = 1100 end = 1130
+platform no = 2 start = 940 end = 1200
+platform no = 0 start = 1500 end = 1900
+platform no = 1 start = 1800 end = 2000
+3
