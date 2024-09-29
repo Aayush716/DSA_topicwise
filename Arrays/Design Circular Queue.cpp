@@ -41,31 +41,34 @@ myCircularDeque.getFront();     // return 4
  
 */
 
-//main thing to learn is 
-//while decrement (front-1+k)%k
-//while increment (rear+1)%k
+//Deque is double ended queue
+//we should be able to insert and remove at both ends
+//points to remember
+// 1) for incremet = (front+1)%k  because when reaches to kth index it should be crcular and come to 0
+// 2) for decrement = (rear-1+k)%k;  because when reaches -1 index then should be circular and come to k-1.
 
 class MyCircularDeque {
 public:
     vector<int> dq;
     int k;
-    int total;
     int front;
     int rear;
+    int total;
+
     MyCircularDeque(int k) {
-        this->k = k;
         dq.resize(k);
+        this->k = k;
+        front = 0;//intially
+        rear = k-1;//intially
         total=0;
-        front=0;
-        rear=k-1;
     }
     
     bool insertFront(int value) {
         if(isFull()){
             return false;
         }
-        front = (front-1+k)%k;
         dq[front] = value;
+        front = (front+1)%k;
         total++;
         return true;
     }
@@ -74,8 +77,8 @@ public:
         if(isFull()){
             return false;
         }
-        rear = (rear+1)%k;
         dq[rear] = value;
+        rear = (rear-1+k)%k;
         total++;
         return true;
     }
@@ -84,7 +87,7 @@ public:
         if(isEmpty()){
             return false;
         }
-        front = (front+1)%k;
+        front = (front-1+k)%k;
         total--;
         return true;
     }
@@ -93,7 +96,7 @@ public:
         if(isEmpty()){
             return false;
         }
-        rear = (rear-1+k)%k;
+        rear = (rear+1)%k;
         total--;
         return true;
     }
@@ -102,14 +105,14 @@ public:
         if(isEmpty()){
             return -1;
         }
-        return dq[front];
+        return dq[(front-1+k)%k];
     }
     
     int getRear() {
         if(isEmpty()){
             return -1;
         }
-        return dq[rear];
+        return dq[(rear+1)%k];
     }
     
     bool isEmpty() {
