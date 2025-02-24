@@ -1,16 +1,4 @@
-/*     Scroll below to see JAVA code also    */
-/*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=uJiDHHChF58
-    Company Tags                : Intuit
-    Leetcode Link               : https://leetcode.com/problems/most-profitable-path-in-a-tree
-*/
 
-
-
-/****************************************************************** C++ ******************************************************************/
-//Approach-1 (DFS for Bob and DFS for Alice)
-//T.C : O(n)
-//S.C : O(n)
 class Solution {
 public:
     unordered_map<int, vector<int>> adj;
